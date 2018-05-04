@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Dhawale et al., "Automated long-term recording and analysis of neural activity in behaving animals". eLife, 2017. http://dx.doi.org/10.7554/eLife.27702
+
+
 # FAST (Fast Automated Spike Tracker)
 ----
 
